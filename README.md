@@ -1,6 +1,7 @@
 # 「 ✦ FCC Scientific Computing ✦ 」
 
 > freeCodeCamp: Scientific Computing with Python
+> last modified: 3rd January 2024
 
 ─── ⋆⋅☆⋅⋆ ──\
 This is my solution for freeCodeCamp: Scientific Computing with Python. \
@@ -13,32 +14,38 @@ Feel free to look and try it yourself \
 
 - Python installed on your machine ([Download Python](https://www.python.org/downloads/))
 
-### Setting up a Virtual Environment (Optional but recommended) ⊹ ࣪ ˖
+### Setting up a Virtual Environment ⊹ ࣪ ˖
 
-1. Create a virtual environment:
+1. Clone this repository:
+
+    ```bash
+    git clone https://github.com/tasyadew/fcc-scientific-computing.git
+    ```
+    
+2. Go to created directory
+
+    ```bash
+    cd fcc-scientific-computing
+    ```
+    
+3. Create a virtual environment:
 
     ```bash
     python -m venv [your-venv-name]
     ```
 
-2. Navigate to the virtual environment:
-
-    ```bash
-    cd /[your-venv-name]
-    ```
-
-3. Activate the virtual environment:
+4. Activate the virtual environment:
 
     **For Windows:**
 
     ```bash
-    Scripts\activate.bat
+    [your-venv-name]\Scripts\activate.bat
     ```
 
     **For Unix or MacOS:**
 
     ```bash
-    source bin/activate
+    source [your-venv-name]/bin/activate
     ```
 
 ### Install Dependencies ⊹ ࣪ ˖
