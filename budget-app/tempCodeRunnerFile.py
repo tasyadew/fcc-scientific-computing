@@ -1,0 +1,1 @@
+print(create_spend_chart([food, clothing, auto]))
