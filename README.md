@@ -2,17 +2,18 @@
 
 > freeCodeCamp: Scientific Computing with Python
 
-─── ⋆⋅☆⋅⋆ ──
-This is my solution for freeCodeCamp: Scientific Computing with Python. Feel free to look and try it yourself
+─── ⋆⋅☆⋅⋆ ──\
+This is my solution for freeCodeCamp: Scientific Computing with Python. \
+Feel free to look and try it yourself \
 ─── ⋆⋅☆⋅⋆ ──
 
 ## Installation ⋆⭒˚｡⋆
 
-### Prerequisites
+### Prerequisites ⊹ ࣪ ˖
 
 - Python installed on your machine ([Download Python](https://www.python.org/downloads/))
 
-### Setting up a Virtual Environment (Optional but recommended)
+### Setting up a Virtual Environment (Optional but recommended) ⊹ ࣪ ˖
 
 1. Create a virtual environment:
 
@@ -40,7 +41,7 @@ This is my solution for freeCodeCamp: Scientific Computing with Python. Feel fre
     source bin/activate
     ```
 
-### Install Dependencies
+### Install Dependencies ⊹ ࣪ ˖
 
 Inside the activated virtual environment, run:
 
